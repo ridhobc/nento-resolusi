@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T08:12:02.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="e-Rpdtn4f18Lyox4ToRJ" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T08:18:28.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="3zOOe-YGalK6SetqCq6u" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1597" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -849,6 +849,9 @@
         <mxCell id="fnlOzHqq1vUDck9NBwXH-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-331" target="fnlOzHqq1vUDck9NBwXH-333">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-388" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-331" target="fnlOzHqq1vUDck9NBwXH-387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-331" value="List SBP yang ada Penegahan" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="975" width="120" height="60" as="geometry" />
         </mxCell>
@@ -956,6 +959,9 @@
         <mxCell id="fnlOzHqq1vUDck9NBwXH-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-371" target="fnlOzHqq1vUDck9NBwXH-383">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-371" target="fnlOzHqq1vUDck9NBwXH-389">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-371" value="BA Cacah" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1790" width="120" height="80" as="geometry" />
         </mxCell>
@@ -973,6 +979,12 @@
         </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-383" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-387" value="Rekapituallasi Kegiatan Penindakan" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="780" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-389" value="Rekapituallasi Kegiatan Penyidikan" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1580" width="100" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
