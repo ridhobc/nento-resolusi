@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T08:28:50.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="m04NaxDKYBICeEO4syft" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T08:30:38.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="J7iiMglhb1-cJfgJMAYO" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1597" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -733,7 +733,7 @@
         <mxCell id="fnlOzHqq1vUDck9NBwXH-248" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2350" y="630" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fnlOzHqq1vUDck9NBwXH-251" value="&lt;h1&gt;NPI&lt;/h1&gt;&lt;p&gt;Dalam Hal hasil analisa dalam LAPP belum layak untuk penindakan, maka NPI di kirim ke Intelijen agar NI/NHI tersebut dianalisa kembali&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-251" value="&lt;h1&gt;NPI&lt;/h1&gt;&lt;p&gt;Dalam Hal hasil analisa dalam LAPP belum layak untuk penindakan, Maka LAPP dibuatkan Nota Penolakan Informasi (NPI) dengan Tujuan agar NI/NHI dianalisa kembali.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1670" y="600" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-254" target="fnlOzHqq1vUDck9NBwXH-284">
