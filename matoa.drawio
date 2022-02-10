@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T06:32:45.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="xF6lSTdoC4xNrqB5UM1k" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T06:34:25.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.81 Safari/537.36" etag="cecsJy2na25PcLwK0cmA" version="16.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,6 +206,9 @@
         <mxCell id="fnlOzHqq1vUDck9NBwXH-59" value="Cetak LPTI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-61" target="fnlOzHqq1vUDck9NBwXH-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-61" value="LPTI/LPTI-N" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="10" width="80" height="80" as="geometry" />
         </mxCell>
@@ -251,11 +254,24 @@
         <mxCell id="fnlOzHqq1vUDck9NBwXH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-66" target="fnlOzHqq1vUDck9NBwXH-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-66" target="fnlOzHqq1vUDck9NBwXH-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-66" value="Index/List LPPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fnlOzHqq1vUDck9NBwXH-67" value="Cetak LPPI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fnlOzHqq1vUDck9NBwXH-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="49.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fnlOzHqq1vUDck9NBwXH-78" value="LPPI/LPPI-N" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1161" y="10" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
