@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T04:57:17.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="4Jjokx0v0e3Vr_4tnmgs" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T04:57:36.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="lb0Id1yZRHsK72C_X3V6" version="17.2.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -191,8 +191,14 @@
         <mxCell id="7GiVfeUsD4dQWoVJkpCe-104" value="Buat LPT, LPHP, LP" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="30" y="830" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7GiVfeUsD4dQWoVJkpCe-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-5" source="7GiVfeUsD4dQWoVJkpCe-106" target="7GiVfeUsD4dQWoVJkpCe-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7GiVfeUsD4dQWoVJkpCe-106" value="Laporan Pelanggaran" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="20" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7GiVfeUsD4dQWoVJkpCe-112" value="Selesai" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="20" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="KPPBC/KANWIL" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="680" y="20" width="160" height="1640" as="geometry" />
